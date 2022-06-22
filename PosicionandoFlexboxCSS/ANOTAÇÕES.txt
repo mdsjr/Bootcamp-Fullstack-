@@ -1,0 +1,27 @@
+22/06/2022
+ - Estrutura básica e prática com flex flow /OK
+ - Estrutura básica do justify content
+			>Essa propriedade vai se encarregar de alinhar os itens dentro do container de acordo com a direção pretendida e tratar da distribuição de espaçamento entre eles.
+			OBS.: caso seus itens estajea ocupando 100% de todo o container, ela não se aplica 
+			
+			AS VARIAÇÕES 
+			* flex-start: início do container.
+			* flex-end: final do container.
+			* center: ao centro do container
+			* space-between: cria um espaçamento igual entre os elementos.
+			* space-around: cria um espaçamentodo meio são duas vezes mairoes que o inicial e final.
+
+ - Prática com justify content - Parte 1
+ - Estrutura básica e prática com align items
+			>Align items - CSS Flexbox
+			Trata do alinhamento dos flex itens de acordo com o eixo do container
+			O alinhamentoé diferente para quando os itens estão em colunas ou linhas
+			Permite o alinhamento central no eixo vertical.
+			
+			Tipo de alinhamento
+			*center: alinhamento dos items ao centro 
+			*stretch: padrão, e os flex itens cresçam igualmente
+			*flex-start: alinhamento dos itens no inicio
+			*flex-end: alinhamento dos itens no final
+			*baselne: alinhamento de acordo com a linha base da tipografia dos itens
+			
