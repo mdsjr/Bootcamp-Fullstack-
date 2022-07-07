@@ -1,11 +1,11 @@
 //solução 1
 function verificaPalindromo(string){
-    if (!string) return;
+    if (!string) return "string inexistente"; 
 
     return string.split("").reverse().join("") === string;
 }
 
-console.log(verificaPalindromo(""));
+console.log(verificaPalindromo("sapo"));
 
 // solução 2
 
